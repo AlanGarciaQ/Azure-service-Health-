@@ -1,7 +1,7 @@
 # Azure service Health 
 **Objetivo:** Conocer el funcionamiento del recurso de Azure Service Health.   
 
-![](/imagenes/virtual%20machine.png)
+![](/imagenes/SH.png)
 
 **Requisitos**
 - Cuenta de Azure con una suscripción activa.
